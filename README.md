@@ -12,4 +12,11 @@
 The target of this project is to using machine learning methods to help indentify all the mushrooms in the dataset between edible and poisonous. Firstly, all of the features are transformed by one hot encoder. Then I have tried three different model:
 * Logistic Regression, 
 * Support Vector Machine, 
-* Voting Classifier.
+* A Voting Classifier, which I thought should give a better result compared to one single model.
+Best model performance (accuracy) will be searched under randomized gird seach on th hyper prameters.
+
+## Model performance
+Voting classifer does improve the accruracy but does not differ very much compared to other two models.
+* Logistic Regression: 98.07%,
+* Support Vector Machine: 98.28%,
+* Voting Classifier: 98.35%.
