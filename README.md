@@ -9,7 +9,7 @@
 * All features are categorical variables.
 
 ## Model Building
-The target of this project is to using machine learning methods to help indentify all the mushrooms in the dataset between edible and poisonous. Firstly, all of the features are transformed by one hot encoder. Then I have tried three different model:
+The target of this project is to using machine learning methods to help indentify all the mushrooms in the dataset between edible and poisonous. Firstly, all of the features are transformed by one hot encoder. Then I have used three different models:
 * Logistic Regression, 
 * Support Vector Machine, 
 * A Voting Classifier, which I thought should give a better result compared to one single model.
