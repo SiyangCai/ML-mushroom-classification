@@ -6,3 +6,10 @@
 * No missing values.
 * Total number of 8124 mushrooms, with 4208 edible and 3916 poisonous.
 * 22 features that describe the attributes of the mushrooms.
+* All features are categorical variables.
+
+## Model Building
+The target of this project is to using machine learning methods to help indentify all the mushrooms in the dataset between edible and poisonous. Firstly, all of the features are transformed by one hot encoder. Then I have tried three different model:
+*Logistic regression, 
+*Support Vector Machine, 
+*Voting classifier.
