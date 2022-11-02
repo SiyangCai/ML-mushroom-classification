@@ -13,6 +13,7 @@ The target of this project is to using machine learning methods to help identify
 * Logistic Regression, 
 * Support Vector Machine, 
 * A Voting Classifier, which I thought should give a better result compared to one single model.
+
 Best model performance (accuracy) will be searched under randomized gird seach on th hyper prameters.
 
 ## Model performance
