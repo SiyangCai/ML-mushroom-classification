@@ -5,3 +5,4 @@
 ## Data Cleaning
 * No missing values.
 * Total number of 8124 mushrooms, with 4208 edible and 3916 poisonous.
+* 22 features that describe the attributes of the mushrooms.
