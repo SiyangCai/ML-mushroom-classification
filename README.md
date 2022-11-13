@@ -14,7 +14,7 @@ The target of this project is to using machine learning methods to help identify
 * Support Vector Machine, 
 * A Voting Classifier, which I thought should give a better result compared to one single model.
 
-Best model performance (accuracy) will be searched under randomized gird seach regarding the hyper parameters.
+Best model performance (accuracy) will be searched under randomized gird seach regarding the hyper parameters. 10 Cross validations are performed.
 
 ## Model performance
 Voting classifer does improve the accruracy but does not differ very much compared to other two models.
