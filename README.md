@@ -6,9 +6,29 @@
 - No missing values.
 - Total number of 8,124 mushrooms, with 4,208 edible and 3,916 poisonous.
 - 22 features that describe the attributes of the mushrooms.
-- All features are categorical variables, which includes
+- All features are categorical variables, which includes:
   - cap shape
-  - 
+  - cap surface
+  - cap color
+  - bruises
+  - odor
+  - gill attachment
+  - gill spacing
+  - gill size
+  - gill color
+  - stalk shape
+  - stalk root
+  - stalk surface above ring
+  - stalk surface below ring
+  - stalk color above ring
+  - stalk color below ring
+  - veil type
+  - veil color
+  - ring number
+  - ring type
+  - spore print color
+  - population
+  - habitat
 
 ## Model Building
 The target of this project is to using machine learning methods to help identify all the mushrooms in the dataset between edible and poisonous. Firstly, all of the features are transformed by one hot encoder. Then I have used three different models:
