@@ -39,7 +39,7 @@ The target of this project is to using machine learning methods to help identify
 Best model performance (accuracy) will be searched under randomized gird seach regarding the hyper parameters. 10 Cross validations are performed.
 
 ## Model performance
-Voting classifer does improve the accruracy but does not differ very much compared to other two models.
+All methods have provided satisfying results. Voting classifer does improve the accruracy but does not differ very much compared to other two models.
 * Logistic Regression: 98.07%,
 * Support Vector Machine: 98.28%,
 * Voting Classifier: 98.35%.
